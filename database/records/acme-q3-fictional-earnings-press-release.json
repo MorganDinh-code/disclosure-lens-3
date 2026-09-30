@@ -1,0 +1,103 @@
+{
+ "id": "acme-q3-fictional-earnings-press-release",
+ "company": "Acme Corp.",
+ "ticker": "ACME",
+ "sector": "Illustrative",
+ "filing_type": "Earnings press release",
+ "period": "Q3 (fictional)",
+ "date": "2026-09-30",
+ "source_url": "",
+ "demo": true,
+ "summary": {
+  "n_sentences": 12,
+  "n_material_neg": 2,
+  "n_positive": 3,
+  "mean_pos_negative": 0.9583333333333333,
+  "mean_pos_positive": 0.3888888888888889,
+  "placement_asymmetry": 0.5694444444444444,
+  "distance_from_headline": 9,
+  "first_negative_pos": 0.9166666666666666,
+  "hedge_near_negative": 0.10583778966131907,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0.5,
+  "mean_tone_gap_on_negatives": 1.020703933747412
+ },
+ "sentences": [
+  {
+   "d": 0,
+   "m": false,
+   "t": 0.0,
+   "h": 0.0
+  },
+  {
+   "d": 1,
+   "m": false,
+   "t": 0.0,
+   "h": 0.0
+  },
+  {
+   "d": 1,
+   "m": false,
+   "t": 1.0,
+   "h": 0.0
+  },
+  {
+   "d": 0,
+   "m": false,
+   "t": 1.0,
+   "h": 0.0
+  },
+  {
+   "d": 0,
+   "m": false,
+   "t": 1.0,
+   "h": 0.0
+  },
+  {
+   "d": 0,
+   "m": false,
+   "t": 1.0,
+   "h": 0.0
+  },
+  {
+   "d": 0,
+   "m": false,
+   "t": 1.0,
+   "h": 0.143
+  },
+  {
+   "d": 0,
+   "m": false,
+   "t": 1.0,
+   "h": 0.0
+  },
+  {
+   "d": 1,
+   "m": false,
+   "t": 1.0,
+   "h": 0.0
+  },
+  {
+   "d": 0,
+   "m": false,
+   "t": 1.0,
+   "h": 0.0
+  },
+  {
+   "d": -1,
+   "m": true,
+   "t": -0.43,
+   "h": 0.13
+  },
+  {
+   "d": -1,
+   "m": true,
+   "t": 0.48,
+   "h": 0.095
+  }
+ ],
+ "boilerplate_removed": 0,
+ "tone_lexicon": "built-in placeholder",
+ "added": "2026-09-30"
+}
